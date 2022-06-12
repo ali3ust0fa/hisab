@@ -1,6 +1,6 @@
 # Hisab
 
-App untuk mengetahui awal bulan tahun hijriah berdasarkan kaidah perhitungan yang dinisbatkan kepada Saidina Ali Karromallohu Wajhah.
+App untuk mengetahui awal bulan.
 
 ## Tools
 
